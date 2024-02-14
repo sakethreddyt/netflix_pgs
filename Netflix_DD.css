@@ -1,0 +1,88 @@
+body{
+    background-color: black;
+}
+.container2
+{
+    height: 80px;
+    display: flex;
+    justify-items: left;
+}
+.container1
+{
+    background-image: url('https://occ-0-4619-2186.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABem9WydnKQmh2FxuoLN350Hk8Nxb9S0sSU6Y_JkQb4VR0hQVIcigS3AfKVbHefc1GMwULdhuqD7I_W8jjZNgSq7hXkMQCQMLKcWn.jpg?r=9a3');
+    background-size: cover;
+    height: 120vh;
+}
+.logo{
+    margin: 20px;
+    margin-bottom: 20px;
+}
+a{
+    text-decoration: none;
+}
+.btstyle1{
+    color: white;
+    padding: 9px;
+    border: none;
+    border-radius: 5px;
+    background-color:red;
+    margin-top: 20px;
+}
+.btnstyle:hover{
+    box-shadow: 0px 0px 50px black;
+}
+.btstyle1{
+    color: white;
+    padding: 8px;
+    border: 1px solid;
+    border-radius: 5px;
+    margin-top: 20px;
+    background-color: #ffffff00;
+    margin: 17px;
+    width: 100px;
+}
+.btnstyle1:hover
+{
+    box-shadow: 0px 0px 50px black;
+}
+.dare{
+    margin-top: 40px;
+    margin-left: 30px;
+}
+.kris{
+    padding: 10px;
+}
+h1{
+    color: white;
+    margin-left: 40px;
+}
+.genere{
+    margin-left: 40px;
+    color: gray;
+
+}
+.para{
+    margin-left: 40px;
+    color: white;
+    font-size: 18px;
+}
+.para1,.para2{
+    font-size: 18px;
+    color: white;
+    margin-left: 40px
+}
+span{
+    color: gray;
+}
+.btn1{
+    margin-left: 40px;
+    border-radius: 50px;
+    border: none;
+    background-color: red;
+    padding: 5px;
+    width: 120px;
+    height: 50px;
+    color: white;
+    font-size: 18px;
+
+}
